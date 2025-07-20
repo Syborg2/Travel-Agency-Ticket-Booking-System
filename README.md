@@ -78,7 +78,7 @@ Open the .env file and configure your database
 `DB_PORT=3306` <br>
 `DB_DATABASE=travel_agency_db` <br>
 `DB_USERNAME=root` <br>
-`DB_PASSWORD=` <br><br>
+`DB_PASSWORD=` <br>
 `APP_NAME=BrazilTours` <br>
 
 <br>
